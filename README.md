@@ -11,3 +11,7 @@ The code compares different metrics:
                 - AUC (Area Under Curve)
                 - Accuracy
                 - Brier score
+                
+The code uses the glass dataset however a different dataset maybe used with some modifications on the code:
+                - Modify the data preprocessing functions (Remove drop columns - ID or CLASS)
+                
